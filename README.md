@@ -1,0 +1,1 @@
+Repositório com os códigos criado durante os estudos de collections Java.
